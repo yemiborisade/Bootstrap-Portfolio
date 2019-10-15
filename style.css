@@ -1,0 +1,57 @@
+body {
+    background-color: #dddddd
+   }
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-brand {
+background-color: #4aaaa5;
+color: white;
+background-position: 15%;
+text-align: center;
+margin-left: 3%;
+height: 80px;
+font-size: 1.5em;
+font-weight: bold;
+padding: 25px;
+text-decoration-color: white;
+}
+
+.nav-item {
+    float: right;
+}
+
+.container {
+    clear: both;
+    width: 720px;
+    height: 720px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10;
+    margin-bottom: 10%;
+    margin: 10px auto 50px auto;
+    background-color: white;
+    padding: 3%;
+    border: 50px solid #dddddd;
+    overflow: hidden; 
+    position: absolute;
+   }
+
+.card-title {
+    color: #4aaaa5;
+}
+
+form {
+    padding: 11px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+  }
+
+.btn-primary {
+    background-color: #4aaaa5;
+    color: white;
+    width: 80px;
+    height: 40px;
+  }
