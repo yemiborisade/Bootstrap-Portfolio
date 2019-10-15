@@ -18,9 +18,9 @@ font-weight: bold;
 padding: 25px;
 text-decoration-color: white;
 }
-
-.nav-item {
+.navbar-nav.mr-auto {
     float: right;
+    margin-left: 650px;
 }
 
 .container {
@@ -54,4 +54,55 @@ form {
     color: white;
     width: 80px;
     height: 40px;
+ }
+ 
+.Hangman {
+      text-align: center;
+      background-color: #4aaaa5;
+      color: white;
+      margin-left: 10px;
+      margin-top: 97px;
+      width: 19.4%;
+      height: 30px;
+      float: left;
+      position: fixed;
+  }
+
+  .RPGGames {
+    clear: both;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    margin-left: 224px;
+    margin-top: 120px;
+    width: 19.5%;
+    height: 30px;
+    float: left;
+    position: fixed;
+}
+
+.TriviaGames {
+    clear: both;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    margin-left: 224px;
+    margin-top: 120px;
+    width: 19.5%;
+    height: 30px;
+    float: right;
+    position: fixed;
+}
+
+  footer {
+    left: 0px;
+    background-color: #666666;
+    border-top: 90px #4aaaa5;
+    color: white; 
+    text-align: center;
+    padding: 0;
+    line-height: 25px;
+    width: 100%;
+    margin-bottom: 0%;
+    position: absolute; 
   }
