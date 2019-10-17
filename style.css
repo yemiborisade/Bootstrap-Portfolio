@@ -31,7 +31,7 @@ text-decoration-color: white;
     margin-right: 10%;
     margin-top: 10;
     margin-bottom: 10%;
-    margin: 10px auto 50px auto;
+    margin: 10px auto 50px 3px;
     background-color: white;
     padding: 3%;
     border: 50px solid #dddddd;
@@ -73,9 +73,9 @@ form {
     text-align: center;
     background-color: #4aaaa5;
     color: white;
-    margin-left: -158px;
-    margin-top: 120px;
-    width: 27.5%;
+    margin-left: -151px;
+    margin-top: 114px;
+    width: 25.8%;
     height: 30px;
     float: left;
     position: absolute;
@@ -86,12 +86,38 @@ form {
     text-align: center;
     background-color: #4aaaa5;
     color: white;
-    margin-left: 224px;
-    margin-top: 120px;
-    width: 19.5%;
+    margin-left: -152px;
+    margin-top: 118px;
+    width: 26.3%;
+    height: 30px;
+    float: left;
+    position: absolute;
+}
+
+.RockPaperScissors {
+    clear: both;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    margin-left: -120px;
+    margin-top: 118px;
+    width: 25.8%;
     height: 30px;
     float: right;
-    position: fixed;
+    position: absolute;
+}
+
+.RutgersWidgetInfo {
+    clear: both;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    margin-left: -152px;
+    margin-top: 118px;
+    width: 26.1%;
+    height: 30px;
+    float: right;
+    position: absolute;
 }
 
   footer {
