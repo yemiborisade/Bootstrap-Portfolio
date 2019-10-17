@@ -132,3 +132,40 @@ form {
     margin-bottom: 0%;
     position: absolute; 
   }
+
+  @media only screen and (max-width: 640px) {
+    .container {
+      height: 1000px;
+    }
+
+@media only screen and (max-width: 640px) {
+    .Hangman {
+        width: 86.4%x;
+        }
+
+@media only screen and (max-width: 640px) {
+    .RPGGames {
+        width: 41.8%;
+        margin-left: -177px;
+        margin-top: 139px;
+        }
+
+@media only screen and (max-width: 640px) {
+    .TriviaGames {
+        width: 42.3%;
+        margin-left: -177px;
+        margin-top: 145px;
+        }
+@media only screen and (max-width: 640px) {
+    .RockPaperScissors {
+        width: 41.8%;
+        margin-left: -147px;
+        margin-top: 145px;
+        }
+
+@media only screen and (max-width: 640px) {
+    .RutgersWidgetInfo {
+        width: 42.1%;
+        margin-left: -177x;
+        margin-top: 137px;
+        }
