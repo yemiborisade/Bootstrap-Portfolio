@@ -6,6 +6,10 @@ body {
     color: white;
 }
 
+img {
+    height: 160px;
+    width: 120px;
+}
 .navbar-brand {
 background-color: #4aaaa5;
 color: white;
@@ -68,7 +72,7 @@ form {
       position: absolute;
   }
 
-  .RPGGames {
+  .MatchingGames {
     clear: both;
     text-align: center;
     background-color: #4aaaa5;
